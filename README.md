@@ -1,4 +1,5 @@
 **# Airline-Management-System**
+
 The Airline Management System is a software that makes the daily operations of airlines more efficient and convenient for customers. Examples of these systems include Sabre Airline Solutions, Amadeus IT Group, and Travelport.
 
 The Airline Management system covers everything from booking flights and managing customer data to tracking flight schedules and updates. By providing a comprehensive solution for the airline industry, these systems aim to streamline processes, improve efficiency, and enhance the customer experience.
